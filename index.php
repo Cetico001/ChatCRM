@@ -14,9 +14,10 @@ include 'db.php';
     </header>
     <main>
         <h2>Entre no CRM</h2>
-        <a href="login.html">Login</a>
+        <a href="login.php">Login</a>
         <a href="register.php"><br>Register</a>
     </main>
 </body>
 </html>
+
 
